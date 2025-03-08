@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Archit Rawat </h1>
+<h1 align="center">Hi, I'm Archit </h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHoyZHY3OTRidjkwMWU2NW95dzFsYmVlMWwwbHE5amQxbXV0NHoxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350" alt="Machine Learning GIF">
